@@ -89,12 +89,12 @@ Cookie: session=abc123; auth_token=xyz789secret`;
 const SUPPORTED_TYPES = [
   { name: 'ChatGPT 隐私保护', icon: Shield, href: '/zh/redact/chatgpt-privacy', color: 'text-green-400' },
   { name: '隐藏密码', icon: Lock, href: '/zh/redact/hide-passwords', color: 'text-red-400' },
-  { name: 'AI 安全使用', icon: Code, href: '/zh/redact/ai-safe-use', color: 'text-blue-400' },
+  { name: 'AI 安全编码', icon: Code, href: '/zh/redact/safe-ai-coding', color: 'text-blue-400' },
   { name: 'API 密钥', icon: Key, href: '/zh/redact/api-key', color: 'text-yellow-400' },
   { name: '.env 文件', icon: FileCode, href: '/zh/redact/env', color: 'text-purple-400' },
-  { name: '安全分享代码', icon: Globe, href: '/zh/redact/share-code-safely', color: 'text-cyan-400' },
+  { name: '代码分享工具', icon: Globe, href: '/zh/redact/code-sharing-tool', color: 'text-cyan-400' },
   { name: '数据库连接', icon: Database, href: '/zh/redact/database-url', color: 'text-orange-400' },
-  { name: 'AI 调试代码', icon: Terminal, href: '/zh/redact/debug-with-ai', color: 'text-pink-400' },
+  { name: '移除敏感数据', icon: Terminal, href: '/zh/redact/remove-sensitive-data', color: 'text-pink-400' },
 ];
 
 // 统计数据
