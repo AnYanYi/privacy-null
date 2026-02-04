@@ -109,4 +109,4 @@ npm run build
 
 ## License
 
-MIT © 2024 [AnYanYi](https://github.com/AnYanYi)
+MIT © 2026 [AnYanYi](https://github.com/AnYanYi)
