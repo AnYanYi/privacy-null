@@ -1,0 +1,2 @@
+# 禁用 Jekyll 处理（GitHub Pages 默认使用 Jekyll）
+# Next.js 静态导出的文件不需要 Jekyll 处理
