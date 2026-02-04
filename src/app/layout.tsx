@@ -42,6 +42,9 @@ export const metadata: Metadata = {
       'zh': 'https://pnull.com/zh',
     },
   },
+  icons: {
+    icon: '/icon.svg',
+  },
   verification: {
     // google: 'your-google-verification-code',
   },
