@@ -2,6 +2,8 @@ import { MetadataRoute } from 'next';
 import { getAllEnglishSlugs } from '@/content/landing-pages-en';
 import { getAllChineseSlugs } from '@/content/landing-pages-zh';
 
+export const dynamic = 'force-static';
+
 const BASE_URL = 'https://pnull.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
